@@ -1,8 +1,18 @@
 
-# Created by https://www.gitignore.io/api/git,node,linux,macos,windows
+# Created by https://www.gitignore.io/api/node,linux,macos,windows,compressed
 
-### Git ###
-*.orig
+### Compressed ###
+*.7z
+*.deb
+*.gz
+*.pkg
+*.rar
+*.rpm
+*.sit
+*.sitx
+*.tar
+*.zip
+*.zipx
 
 ### Linux ###
 *~
@@ -148,4 +158,4 @@ $RECYCLE.BIN/
 *.lnk
 
 
-# End of https://www.gitignore.io/api/git,node,linux,macos,windows
+# End of https://www.gitignore.io/api/node,linux,macos,windows,compressed
